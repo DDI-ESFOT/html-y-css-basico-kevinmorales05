@@ -1,0 +1,50 @@
+body {
+    background-color: #555555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.main-container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.content {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+}
+header h1, header h2 {
+    margin: 0;
+}
+.navbar{
+    background: rgb(195,128,34);
+    background: linear-gradient(0deg, rgba(195,128,34,1) 83%, rgba(253,191,45,0.7262255243894433) 96%);
+    width: 1200px;
+    margin: 0 auto;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding 0;
+}
+ul li {
+    display: inline-block;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: flex;
+}
+header h1{
+    color:white;
+}
+header h2 {
+    color: #cccccc;
+}
+section {
+    width: 1200px;
+    margin: 0 auto;
+    height: 400px;
+    box-shadow: 0px 0px 15px 0px;
+}
